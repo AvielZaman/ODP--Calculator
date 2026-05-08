@@ -55,6 +55,11 @@ button{
   font-size: 30px;
 }
 
+button:hover {
+      background-color:#949699;
+      transition: 0.5s;
+  }
+
 .first-row{
     background-color: rgb(133, 130, 130);
 }
